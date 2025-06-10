@@ -18,19 +18,19 @@
                 "decryption":"none",
                 "fallbacks":[
                     {
-                        "dest":2001
+                        "dest":3001
                     },
                     {
                         "path":"/vless-argo",
-                        "dest":2002
+                        "dest":3002
                     },
                     {
                         "path":"/vmess-argo",
-                        "dest":2003
+                        "dest":3003
                     },
                     {
                         "path":"/trojan-argo",
-                        "dest":2004
+                        "dest":3004
                     }
                 ]
             },
